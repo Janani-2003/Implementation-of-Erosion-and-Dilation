@@ -48,13 +48,13 @@ plt.imshow(image_dilate)
 ```
 ## Output:
 
-### Display the input Image
+### the input Image
 ![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/c3148e88-245a-46b1-aff7-1242e74c51ed)
 
-### Display the Eroded Image
+### the Eroded Image
 ![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/fb5094db-3f48-4127-87cb-1afe19952313)
 
-### Display the Dilated Image
+### the Dilated Image
 ![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/240be1ff-7949-4cbf-9413-3f2de062628d)
 
 ## Result

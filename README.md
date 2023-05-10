@@ -6,18 +6,19 @@ To implement Erosion and Dilation using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>Import the necessary packages.
+Import the necessary packages.
+
 ### Step2:
-<br>Create the Text using cv2.putText.
+Create the Text using cv2.putText.
+
 ### Step3:
-<br>Create the structuring element.
+Create the structuring element.
 
 ### Step4:
-<br>Erode the image.
+Erode the image.
 
 ### Step5:
-<br>Dilate the image.
-
+Dilate the image.
  
 ## Program:
 
@@ -48,31 +49,13 @@ plt.imshow(image_dilate)
 ## Output:
 
 ### Display the input Image
-<br>![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/c3148e88-245a-46b1-aff7-1242e74c51ed)
-
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/c3148e88-245a-46b1-aff7-1242e74c51ed)
 
 ### Display the Eroded Image
-<br>![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/fb5094db-3f48-4127-87cb-1afe19952313)
-
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/fb5094db-3f48-4127-87cb-1afe19952313)
 
 ### Display the Dilated Image
-<br>![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/240be1ff-7949-4cbf-9413-3f2de062628d)
-
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/Janani-2003/Implementation-of-Erosion-and-Dilation/assets/94288340/240be1ff-7949-4cbf-9413-3f2de062628d)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
